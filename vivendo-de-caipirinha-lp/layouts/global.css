@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Roc-Grotesk";
+  src: url("~/assets/fonts/grotesk-condensed-medium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Roc-Grotesk-Bold";
+  src: url("~/assets/fonts/grotesk-condensed-bold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "New Spirit";
+  src: url("~/assets/fonts/newspirit.ttf") format("truetype");
+}
+
+*{
+  scroll-behavior: smooth;
+}
