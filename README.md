@@ -18,7 +18,7 @@ Aplicativo desenvolvido em Nuxt apra a Barbosa Software como Freelancer, este pr
 
 ### Carrosel com Capítulos
 
-![image](./landing-page/assets/2.png)
+![image](./landing-page/assets/3.png)
 
 
 # Instalação
